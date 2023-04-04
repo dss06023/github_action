@@ -3,7 +3,7 @@ import os
 
 # get the input and convert it to int
 num = os.environ.get("INPUT_NUM")
-if num:
+if num:https://github.com/dss06023/github_action/blob/main/getet_num_square
     try:
         num = int(num)
     except Exception:
